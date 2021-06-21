@@ -11,8 +11,11 @@ World's first crypto metatracker - AI-driven data aggregation platform
 ######################
 
 Compilation Instructions:
+
 Compiler Version : v0.7.6+
+
 Optimization Enabled: Yes with 20000 runs
+
 License : MIT
 
 #######################
@@ -22,11 +25,15 @@ Total supply: 4 billion
 
 Deflationary: Yes
 
+
 Taxes structure:
 
 3% taxes sent Liquidity Pool
+
 2% reflected to HODLERS(RFI Mechanism)
+
 3% distributed to operation/dev/marketing wallet
+
 2% distributed to research wallet
 
 #######################
@@ -35,9 +42,11 @@ Taxes structure:
 Rug Check:
 
 Mint Function : NO
+
 Liquidity Locked : Yes
-Ownership Renounced: NO
-Owner address: 0x05c3c6eaea8333adc31efe9ba36685ffbe8df980 
+
+Owner address: 0x05c3c6eaea8333adc31efe9ba36685ffbe8df980
+
 Cross verified that no sensitive internal functions have been exposed to public.
 
 #######################
