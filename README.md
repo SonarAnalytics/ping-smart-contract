@@ -9,12 +9,14 @@ Website : https://www.sonarplatform.io/
 World's first crypto metatracker - AI-driven data aggregation platform
 
 ######################
+
 Compilation Instructions:
 Compiler Version : v0.7.6+
 Optimization Enabled: Yes with 20000 runs
 License : MIT
 
 #######################
+
 
 Total supply: 4 billion
 
@@ -29,6 +31,7 @@ Taxes structure:
 
 #######################
 
+
 Rug Check:
 
 Mint Function : NO
@@ -38,6 +41,7 @@ Owner address: 0x05c3c6eaea8333adc31efe9ba36685ffbe8df980
 Cross verified that no sensitive internal functions have been exposed to public.
 
 #######################
+
 
 Bot Prevention during Launch:
 
